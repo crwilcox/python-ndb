@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-ndb/#history
 
+### [1.7.2](https://www.github.com/googleapis/python-ndb/compare/v1.7.1...v1.7.2) (2020-12-07)
+
+
+### Bug Fixes
+
+* support empty not_finished messages that cause query.count() to return early ([#580](https://www.github.com/googleapis/python-ndb/issues/580)) ([fc31553](https://www.github.com/googleapis/python-ndb/commit/fc31553c77f6e7865df0efd4c820f69366f6607c)), closes [#575](https://www.github.com/googleapis/python-ndb/issues/575)
+
 ### [1.7.1](https://www.github.com/googleapis/python-ndb/compare/v1.7.0...v1.7.1) (2020-11-11)
 
 
